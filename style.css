@@ -109,6 +109,9 @@ table h6 {
 .footer {
     background-color: #ebd2aa;
 }
+.footer td{
+    background-color: #ebd2aa;
+}
 
 .footer p {
     padding: 0;
@@ -122,10 +125,14 @@ table h6 {
 .footer p {
     color: #000;
 }
-
+.socials{
+    margin-left: 50px;
+    margin-right: 50px;
+}
 .socials img {
-    padding-top: 30px;
-    padding-bottom: 20px;
+  
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .button {
