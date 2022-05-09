@@ -25,13 +25,14 @@ table h2 {
 .text {
     padding-top: 41px;
     margin: 0;
-    font-size: 14px;
+    line-height: 22px;
+ font-size: 14px;
     color: #86918c;
     font-family: "Arial";
     align-items: center;
     padding-bottom: 36px;
-    padding-left: 50px;
-    padding-right: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 table i {
@@ -112,8 +113,8 @@ table h6 {
 .footer p {
     padding: 0;
     margin: 0;
-    padding-left: 80px;
-    padding-right: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
 
     text-align: center;
 }
