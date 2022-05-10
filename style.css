@@ -146,6 +146,7 @@ table h6 {
 .button {
     width: 299px;
     height: 47px;
+    border: none;
     border-color: black;
     background-color: #9f15a9;
    margin-left: 25%;
